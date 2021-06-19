@@ -5,7 +5,7 @@ public class Main {
         ArrayList arrayList = new ArrayList<String>();
 
         for (int i=0; i<10; i++) {
-            double random = Math.random() * 10;
+            double random = Math.random() * 100;
             arrayList.add(random);
         }
 
